@@ -1,4 +1,8 @@
-# Vezetéknélküli LED
+
+
+
+<details>
+<summary>Vezetéknélküli LED</summary>
 
 
 ## Kapcsolási rajz:
@@ -42,3 +46,4 @@
 
 
 ![asd](/img/LED/20230210_104018.jpg)
+</details>
