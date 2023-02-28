@@ -104,13 +104,28 @@
 
 <details>
 <summary>Astabil Multivibrátor</summary>
+
 ![asd](/img/Astabil_multivibrator/20221104_112042.jpg)
+
+
 ![asd](/img/Astabil_multivibrator/20221104_112047.jpg)
+
+
 ![asd](/img/Astabil_multivibrator/20221104_112052.jpg)
+
+
 ![asd](/img/Astabil_multivibrator/20221104_113939.jpg)
+
+
 ![asd](/img/Astabil_multivibrator/20221104_131113.jpg)
+
+
 ![asd](/img/Astabil_multivibrator/20221104_131117.jpg)
+
+
 ![asd](/img/Astabil_multivibrator/20230228_192153.jpg)
+
+
 </details>
 
 <details>
