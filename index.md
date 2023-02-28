@@ -2,8 +2,8 @@
 
 <details>
 <summary>11. Évfolyam</summary>
-    <details>
-    <summary>Vezetéknélküli LED</summary>
+        <details>
+        <summary>Vezetéknélküli LED</summary>
 
 
 ## Kapcsolási rajz:
