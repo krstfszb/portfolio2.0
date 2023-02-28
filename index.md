@@ -85,12 +85,15 @@
 <details>
 <summary>Mini Teslatekercs</summary>
 
+### Nyomtatott Áramkör
 ![asd](/img/Mini_teslatekercs/20230112_102348.jpg)
 
 
+### Alkatrészek
 ![asd](/img/Mini_teslatekercs/20230112_101918.jpg)
 
 
+### Forrasztás előtt
 ![asd](/img/Mini_teslatekercs/20230112_101828.jpg)
 
 
@@ -101,7 +104,13 @@
 
 <details>
 <summary>Astabil Multivibrátor</summary>
-|--|--|--|
+![asd](/img/Astabil_multivibrator/20221104_112042.jpg)
+![asd](/img/Astabil_multivibrator/20221104_112047.jpg)
+![asd](/img/Astabil_multivibrator/20221104_112052.jpg)
+![asd](/img/Astabil_multivibrator/20221104_113939.jpg)
+![asd](/img/Astabil_multivibrator/20221104_131113.jpg)
+![asd](/img/Astabil_multivibrator/20221104_131117.jpg)
+![asd](/img/Astabil_multivibrator/20230228_192153.jpg)
 </details>
 
 <details>
