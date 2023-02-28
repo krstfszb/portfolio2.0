@@ -147,6 +147,7 @@
 
 </details>
 
+
 <details>
 <summary>IC Vezérlés</summary>
 
@@ -179,9 +180,32 @@
 
 </details>
 
+
 <details>
 <summary>Igazságtábla</summary>
-|--|--|--|
+
+
+![asd](/img/Igazsagtabla/20221006_111312.jpg)
+
+
+![asd](/img/Igazsagtabla/20221006_111322.jpg)
+
+
+![asd](/img/Igazsagtabla/20221006_111326.jpg)
+
+
+![asd](/img/Igazsagtabla/20221006_114910.jpg)
+
+
+![asd](/img/Igazsagtabla/20221006_114955.jpg)
+
+
+![asd](/img/Igazsagtabla/20221006_115000.jpg)
+
+
+![asd](/img/Igazsagtabla/20221006_121335.jpg)
+
+
 </details>
 
 </details>
