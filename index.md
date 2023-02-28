@@ -52,7 +52,32 @@
 
 <details>
 <summary>Roulette</summary>
-|--|--|--|
+
+## A kit az alkatrészekkel
+
+![asd](/img/Roulette/20221111_090818.jpg)
+
+
+![asd](/img/Roulette/20221111_090927.jpg)
+
+
+![asd](/img/Roulette/20221111_091330.jpg)
+
+
+![asd](/img/Roulette/20221111_091359.jpg)
+
+
+![asd](/img/Roulette/20221111_091404.jpg)
+
+
+![asd](/img/Roulette/20221111_125523.jpg)
+
+
+![asd](/img/Roulette/20221111_125533.jpg)
+
+
+![asd](/img/Roulette/20221111_125538.jpg)
+
 </details>
 
 <details>
@@ -61,12 +86,17 @@
 </details>
 
 <details>
-<summary>Mini Teslatekercs</summary>
+<summary>Astabil Multivibrátor</summary>
 |--|--|--|
 </details>
 
 <details>
-<summary>Mini Teslatekercs</summary>
+<summary>IC Vezérlés</summary>
+|--|--|--|
+</details>
+
+<details>
+<summary>Igazságtábla</summary>
 |--|--|--|
 </details>
 
