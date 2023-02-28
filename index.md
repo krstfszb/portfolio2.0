@@ -55,6 +55,8 @@
 <details>
 <summary>Roulette</summary>
 
+# ***WIP***
+
 ## A kit az alkatrészekkel
 
 ![asd](/img/Roulette/20221111_090818.jpg)
@@ -66,7 +68,7 @@
 ![asd](/img/Roulette/20221111_091330.jpg)
 
 
-### Útmutató Kapcsolásirajzal
+### Útmutató, Alkatrészleírás, Kapcsolásirajz
 ![asd](/img/Roulette/20221111_091359.jpg)
 
 
@@ -87,11 +89,14 @@
 <details>
 <summary>Mini Teslatekercs</summary>
 
+# ***WIP***
+
 ### Nyomtatott Áramkör
 ![asd](/img/Mini_teslatekercs/20230112_102348.jpg)
 
 
 ### Alkatrészek
+
 ![asd](/img/Mini_teslatekercs/20230112_101918.jpg)
 
 
@@ -111,6 +116,7 @@
 ![asd](/img/Astabil_multivibrator/20230228_192153.jpg)
 
 ### Alkatrészek
+## ***WIP***
 |Név|Jelölés|Érték/Típus|Darab|
 |:---|:---:|:---:|:---:|
 |Ellenállás|R1,R2|29,75kOhm|2|
