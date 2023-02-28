@@ -171,6 +171,7 @@
 Az NI myDAQ egy hordozható labor, ami laptophoz csatlakoztatva bárhol bármikor képes mérésre, adatgyűjtésre. 
 A labortápegységeken át, funkciógenerátorral, oszcilloszkóppal, multiméterrel, logikai analozátorral van felszerelve.
 ![asd](/img/IC_vezerles/ni-mydaq-923484859%20(1).jpg)
+[Bővebben](https://www.ni.com/hu-hu/shop/engineering-education/portable-student-devices/mydaq/what-is-mydaq.html)
 
 ## 4093D IC összekötve egy 7406 TTL IC-vel és LED-ekkel
 ### Kapcsolási rajz
