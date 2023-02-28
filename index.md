@@ -105,6 +105,9 @@
 <details>
 <summary>Astabil Multivibrátor</summary>
 
+![asd](/img/Astabil_multivibrator/20230228_192153.jpg)
+
+
 ![asd](/img/Astabil_multivibrator/20221104_112042.jpg)
 
 
@@ -121,9 +124,6 @@
 
 
 ![asd](/img/Astabil_multivibrator/20221104_131117.jpg)
-
-
-![asd](/img/Astabil_multivibrator/20230228_192153.jpg)
 
 
 </details>
