@@ -49,7 +49,25 @@
 
 ![asd](/img/LED/20230210_104018.jpg)
 </details>
+
 <details>
 <summary>Roulette</summary>
+|--|--|--|
 </details>
+
+<details>
+<summary>Mini Teslatekercs</summary>
+|--|--|--|
+</details>
+
+<details>
+<summary>Mini Teslatekercs</summary>
+|--|--|--|
+</details>
+
+<details>
+<summary>Mini Teslatekercs</summary>
+|--|--|--|
+</details>
+
 </details>
