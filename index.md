@@ -64,12 +64,14 @@
 ![asd](/img/Roulette/20221111_091330.jpg)
 
 
+### Útmutató Kapcsolásirajzal
 ![asd](/img/Roulette/20221111_091359.jpg)
 
 
 ![asd](/img/Roulette/20221111_091404.jpg)
 
 
+### Összeforrasztva
 ![asd](/img/Roulette/20221111_125523.jpg)
 
 
