@@ -167,6 +167,8 @@
 
 ![asd](/img/IC_vezerles/20230224_133953.jpg)
 
+#### Az NI myDAQ-ról
+
 ## 4093D IC összekötve egy 7406 TTL IC-vel és LED-ekkel
 ### Kapcsolási rajz
 ![asd](/img/IC_vezerles/20230228_204446.jpg)
@@ -182,9 +184,16 @@
 
 
 <details>
-<summary>Igazságtábla</summary>
+<summary>Igazságtábla Gyakorlása</summary>
+
+## Elmélet
+![asd](/img/Igazsagtabla/20221006_115000.jpg)
 
 
+![asd](/img/Igazsagtabla/20221006_121335.jpg)
+
+
+## Gyakorlat
 ![asd](/img/Igazsagtabla/20221006_111312.jpg)
 
 
@@ -194,16 +203,7 @@
 ![asd](/img/Igazsagtabla/20221006_111326.jpg)
 
 
-![asd](/img/Igazsagtabla/20221006_114910.jpg)
-
-
 ![asd](/img/Igazsagtabla/20221006_114955.jpg)
-
-
-![asd](/img/Igazsagtabla/20221006_115000.jpg)
-
-
-![asd](/img/Igazsagtabla/20221006_121335.jpg)
 
 
 </details>
