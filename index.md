@@ -150,9 +150,11 @@
 <details>
 <summary>IC Vezérlés</summary>
 
+## 4092D CMOS IC igazságtáblával
 ![asd](/img/IC_vezerles/20230224_133518.jpg)
 
 
+### Említett IC igazságtáblájának tesztelése MyDaq
 ![asd](/img/IC_vezerles/20230224_133937.jpg)
 
 
@@ -164,15 +166,16 @@
 
 ![asd](/img/IC_vezerles/20230224_133953.jpg)
 
+## 4093D IC összekötve egy 7406 IC-vel és LED-ekkel
+### Kapcsolási rajz
+![asd](/img/IC_vezerles/20230228_193039.jpg)
 
+
+### Futtatás közben
 ![asd](/img/IC_vezerles/20230224_141035.jpg)
 
 
 ![asd](/img/IC_vezerles/20230224_141039.jpg)
-
-
-![asd](/img/IC_vezerles/20230228_193039.jpg)
-
 
 </details>
 
