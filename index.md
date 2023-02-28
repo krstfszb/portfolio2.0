@@ -84,7 +84,19 @@
 
 <details>
 <summary>Mini Teslatekercs</summary>
-|--|--|--|
+
+![asd](/img/Mini_teslatekercs/20230112_102348.jpg)
+
+
+![asd](/img/Mini_teslatekercs/20230112_101918.jpg)
+
+
+![asd](/img/Mini_teslatekercs/20230112_101828.jpg)
+
+
+![asd](/img/Mini_teslatekercs/20230112_101824.jpg)
+
+
 </details>
 
 <details>
