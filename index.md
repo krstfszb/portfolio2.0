@@ -154,7 +154,7 @@
 ![asd](/img/IC_vezerles/20230224_133518.jpg)
 
 
-### Említett IC igazságtáblájának tesztelése MyDaq
+### Említett IC igazságtáblájának tesztelése NI myDAQ segítségével
 ![asd](/img/IC_vezerles/20230224_133937.jpg)
 
 
