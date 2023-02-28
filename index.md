@@ -166,7 +166,7 @@
 
 ![asd](/img/IC_vezerles/20230224_133953.jpg)
 
-## 4093D IC összekötve egy 7406 IC-vel és LED-ekkel
+## 4093D IC összekötve egy 7406 TTL IC-vel és LED-ekkel
 ### Kapcsolási rajz
 ![asd](/img/IC_vezerles/20230228_193039.jpg)
 
