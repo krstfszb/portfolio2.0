@@ -2,6 +2,8 @@
 
 <details>
 <summary>11. Évfolyam</summary>
+
+
 <details>
 <summary>Vezetéknélküli LED</summary>
 
@@ -147,7 +149,31 @@
 
 <details>
 <summary>IC Vezérlés</summary>
-|--|--|--|
+
+![asd](/img/IC_vezerles/20230224_133518.jpg)
+
+
+![asd](/img/IC_vezerles/20230224_133937.jpg)
+
+
+![asd](/img/IC_vezerles/20230224_133943.jpg)
+
+
+![asd](/img/IC_vezerles/20230224_133950.jpg)
+
+
+![asd](/img/IC_vezerles/20230224_133953.jpg)
+
+
+![asd](/img/IC_vezerles/20230224_141035.jpg)
+
+
+![asd](/img/IC_vezerles/20230224_141039.jpg)
+
+
+![asd](/img/IC_vezerles/20230228_193039.jpg)
+
+
 </details>
 
 <details>
