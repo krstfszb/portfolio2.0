@@ -1,28 +1,12 @@
 <details>
-
-
-<summary>anyad</summary>
-
+    <summary>anyad</summary>
 
 ## anyad
-
-
 </details>
 
-
 <details>
+    <summary>picsaja</summary>
 
-
-<summary>picsaja</summary>
-
-
-<details>
-
-
-### <summary>asd</summary>
-
-
-</details>
-
-
+# asd
+    asd a masodikon
 </details>
