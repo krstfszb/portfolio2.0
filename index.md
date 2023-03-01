@@ -1,7 +1,7 @@
 
 
 <details>
-<summary><strong>11. Évfolyam</strong></summary>
+    <summary><strong>11. Évfolyam</strong></summary>
 
 
 <details>
