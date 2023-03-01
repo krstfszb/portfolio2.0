@@ -8,63 +8,148 @@
 <summary>Vezetéknélküli LED</summary>
 
 
-## Kapcsolási rajz
+<h2 id="kapcsolási-rajz">Kapcsolási rajz:</h2>
+<p><img src="/portfolio2.0/img/LED/20230216_105507.jpg" alt="asd" /></p>
 
+<h2 id="alkatrészek">Alkatrészek:</h2>
 
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>4</td>
+      <td> </td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>asd</td>
+      <td>asd</td>
+      <td>asd</td>
+      <td>asd</td>
+      <td> </td>
+      <td>asd</td>
+    </tr>
+    <tr>
+      <td>asd</td>
+      <td>asd</td>
+      <td>asd</td>
+      <td>asd</td>
+      <td> </td>
+      <td>asd</td>
+    </tr>
+    <tr>
+      <td>asd</td>
+      <td>asd</td>
+      <td>asd</td>
+      <td>asd</td>
+      <td> </td>
+      <td>asd</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
 
+<hr />
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Név</th>
+      <th style="text-align: center">Jelölés</th>
+      <th style="text-align: center">Érték/Típus</th>
+      <th style="text-align: center">Darab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Feszültség</td>
+      <td style="text-align: center">V1</td>
+      <td style="text-align: center">3V-6V</td>
+      <td style="text-align: center">—–</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Ellenállás</td>
+      <td style="text-align: center">R1</td>
+      <td style="text-align: center">5,6K</td>
+      <td style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Kondenzátor</td>
+      <td style="text-align: center">C1</td>
+      <td style="text-align: center">1nF</td>
+      <td style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Kondenzátor</td>
+      <td style="text-align: center">C2</td>
+      <td style="text-align: center">———–</td>
+      <td style="text-align: center">—–</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Kondenzátor</td>
+      <td style="text-align: center">C3</td>
+      <td style="text-align: center">4,7nF</td>
+      <td style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Kondenzátor</td>
+      <td style="text-align: center">C4</td>
+      <td style="text-align: center">470nF</td>
+      <td style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Tranzisztor</td>
+      <td style="text-align: center">T1</td>
+      <td style="text-align: center">BC639</td>
+      <td style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Rézhuzal</td>
+      <td style="text-align: center">-……</td>
+      <td style="text-align: center">~4,6cm</td>
+      <td style="text-align: center">1</td>
+    </tr>
+  </tbody>
+</table>
 
-![asd](/img/LED/20230216_105507.jpg)
+<h2 id="képek">Képek:</h2>
+<h3 id="forrasztás-előtt">Forrasztás előtt</h3>
 
+<p><img src="/portfolio2.0/img/LED/20230210_091954.jpg" alt="asd" /></p>
 
+<h3 id="összeforrasztva">Összeforrasztva</h3>
 
+<p><img src="/portfolio2.0/img/LED/20230210_094549.jpg" alt="asd" /></p>
 
+<p><img src="/portfolio2.0/img/LED/20230210_094555.jpg" alt="asd" /></p>
 
-## Alkatrészek:
+<p><img src="/portfolio2.0/img/LED/20230210_094602.jpg" alt="asd" /></p>
 
+<h3 id="rézhuzal-felforrasztása-után">Rézhuzal felforrasztása után</h3>
 
-|Név|Jelölés|Érték/Típus|Darab|
-|:---|:---:|:---:|:---:|
-|Feszültség|V1|3V-6V|-|
-|Ellenállás|R1|5,6K|1|
-|Kondenzátor|C1|1nF|1|
-|Kondenzátor|C2|-|-|
-|Kondenzátor|C3|4,7nF|1|
-|Kondenzátor|C4|470nF|1|
-|Tranzisztor|T1|BC639|1|
-|Rézhuzal|-|~4,6cm|1|
+<p><img src="/portfolio2.0/img/LED/20230210_104012.jpg" alt="asd" /></p>
 
+<p><img src="/portfolio2.0/img/LED/20230210_104018.jpg" alt="asd" /></p>
 
-## Képek:
-
-
-### Forrasztás előtt
-
-
-![asd](/img/LED/20230210_091954.jpg)
-
-
-
-### Összeforrasztva
-
-
-![asd](/img/LED/20230210_094549.jpg)
-
-
-![asd](/img/LED/20230210_094555.jpg)
-
-
-![asd](/img/LED//20230210_094602.jpg)
-
-
-
-### Rézhuzal felforrasztása után
-
-
-![asd](/img/LED/20230210_104012.jpg)
-
-
-![asd](/img/LED/20230210_104018.jpg)
 
 
 </details>
