@@ -1,13 +1,13 @@
 
 
 <details>
-<summary>11. Évfolyam</summary>
+<summary><strong>11. Évfolyam</strong></summary>
 
 
 <details>
 <summary>Vezetéknélküli LED</summary>
 
-
+<h1 id="wip"><strong><em>*WIP*</em></strong></h1>
 <h2 id="kapcsolási-rajz">Kapcsolási rajz:</h2>
 <p><img src="/portfolio2.0/img/LED/20230216_105507.jpg" alt="Kapcsolási rajz" title="Kapcsolási rajz" /></p>
 
@@ -127,6 +127,8 @@
 
 </details>
 
+
+
 <details>
     <summary>Mini Teslatekercs</summary>
 
@@ -146,11 +148,14 @@
 
 <p><img src="/portfolio2.0/img/Mini_teslatekercs/20230112_101824.jpg" alt="Forrasztás előtt" title="Forrasztás előtt" /></p>
 
-
 </details>
+
+
 
 <details>
 <summary>Astabil Multivibrátor</summary>
+
+<h1 id="wip"><strong><em>*WIP*</em></strong></h1>
 
 <h2 id="kapcsolásirajz">Kapcsolásirajz</h2>
 
@@ -227,6 +232,8 @@
 <details>
 <summary>IC Vezérlés</summary>
 
+<h1 id="wip"><strong><em>*WIP*</em></strong></h1>
+
 <h2 id="4092d-cmos-ic-igazságtáblával">4092D CMOS IC igazságtáblával</h2>
 
 <p><img src="/portfolio2.0/img/IC_vezerles/20230224_133518.jpg" alt="IC" title="IC" /></p>
@@ -268,6 +275,8 @@ A labortápegységeken át, funkciógenerátorral, oszcilloszkóppal, multiméte
 <details>
 <summary>Igazságtábla Gyakorlása</summary>
 
+<h1 id="wip"><strong><em>*WIP*</em></strong></h1>
+
 <h2 id="elmélet">Elmélet</h2>
 
 <p><img src="/portfolio2.0/img/Igazsagtabla/20221006_115000.jpg" alt="Füzetkép" title="Füzetkép" /></p>
@@ -292,4 +301,5 @@ A labortápegységeken át, funkciógenerátorral, oszcilloszkóppal, multiméte
 <details>
     <summary><strong>12. Évfolyam</strong></summary>
 
+<h1 id="wip"><strong><em>*TBC*</em></strong></h1>
 </details>
