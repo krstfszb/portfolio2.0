@@ -1,12 +1,12 @@
 <details>
     <summary>anyad</summary>
 
-## anyad
+    anyad
 </details>
 
 <details>
     <summary>picsaja</summary>
 
-# asd
+    # asd
     asd a masodikon
 </details>
