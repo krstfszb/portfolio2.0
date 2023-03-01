@@ -246,7 +246,7 @@
 <p>Az NI myDAQ egy hordozható labor, ami laptophoz csatlakoztatva bárhol bármikor képes mérésre, adatgyűjtésre.<br>
 A labortápegységeken át, funkciógenerátorral, oszcilloszkóppal, multiméterrel, logikai analozátorral van felszerelve.</p><br>
 
-<p><img src="/img/IC_vezerles/ni-mydaq-923484859%20(1).jpg" alt="asd" /></p>
+<p><img src="/portfolio2.0/img/IC_vezerles/ni-mydaq-923484859%20(1).jpg" alt="asd" /></p>
 
 <p><a href="https://www.ni.com/hu-hu/shop/engineering-education/portable-student-devices/mydaq/what-is-mydaq.html">Bővebben</a></p>
 
