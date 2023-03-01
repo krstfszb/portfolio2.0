@@ -127,6 +127,27 @@
 
 </details>
 
+<details>
+    <summary>Mini Teslatekercs</summary>
+
+<h1 id="wip"><strong><em>WIP</em></strong></h1>
+
+<h3 id="nyomtatott-áramkör">Nyomtatott Áramkör</h3>
+
+<p><img src="/portfolio2.0/img/Mini_teslatekercs/20230112_102348.jpg" alt="asd" /></p>
+
+<h3 id="alkatrészek">Alkatrészek</h3>
+
+<p><img src="/portfolio2.0/img/Mini_teslatekercs/20230112_101918.jpg" alt="asd" /></p>
+
+<h3 id="forrasztás-előtt">Forrasztás előtt</h3>
+
+<p><img src="/portfolio2.0/img/Mini_teslatekercs/20230112_101828.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/Mini_teslatekercs/20230112_101824.jpg" alt="asd" /></p>
+
+
+</details>
 
 <details>
 <summary>Astabil Multivibrátor</summary>
