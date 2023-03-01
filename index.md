@@ -101,6 +101,29 @@
 <details>
 <summary>Roulette</summary>
 
+<h1 id="wip"><strong><em>WIP</em></strong></h1>
+
+<h2 id="a-kit-az-alkatrészekkel">A kit az alkatrészekkel</h2>
+
+<p><img src="/portfolio2.0/img/Roulette/20221111_090818.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/Roulette/20221111_090927.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/Roulette/20221111_091330.jpg" alt="asd" /></p>
+
+<h3 id="útmutató-alkatrészleírás-kapcsolásirajz">Útmutató, Alkatrészleírás, Kapcsolásirajz</h3>
+
+<p><img src="/portfolio2.0/img/Roulette/20221111_091359.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/Roulette/20221111_091404.jpg" alt="asd" /></p>
+
+<h3 id="összeforrasztva">Összeforrasztva</h3>
+
+<p><img src="/portfolio2.0/img/Roulette/20221111_125523.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/Roulette/20221111_125533.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/Roulette/20221111_125538.jpg" alt="asd" /></p>
 
 </details>
 
@@ -108,6 +131,74 @@
 <details>
 <summary>Astabil Multivibrátor</summary>
 
+<h2 id="kapcsolásirajz">Kapcsolásirajz</h2>
+
+<p><img src="/portfolio2.0/img/Astabil_multivibrator/20230228_192153.jpg" alt="asd" /></p>
+
+<h3 id="alkatrészek">Alkatrészek</h3>
+
+<h2 id="wip"><strong><em>WIP</em></strong></h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Név</th>
+      <th style="text-align: center">Jelölés</th>
+      <th style="text-align: center">Érték/Típus</th>
+      <th style="text-align: center">Darab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Ellenállás</td>
+      <td style="text-align: center">R1,R2</td>
+      <td style="text-align: center">29,75kOhm</td>
+      <td style="text-align: center">2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Ellenállás</td>
+      <td style="text-align: center">R3,R4</td>
+      <td style="text-align: center">0,672kOhm</td>
+      <td style="text-align: center">2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Kondenzátor</td>
+      <td style="text-align: center">C1,C2</td>
+      <td style="text-align: center">–</td>
+      <td style="text-align: center">2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Tranzisztor</td>
+      <td style="text-align: center">Q1,Q2</td>
+      <td style="text-align: center">BC639</td>
+      <td style="text-align: center">2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">LED</td>
+      <td style="text-align: center">LED1,LED2</td>
+      <td style="text-align: center">–</td>
+      <td style="text-align: center">2</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="breadboard-on-összerakva">Breadboard-on összerakva</h3>
+
+<p><img src="/portfolio2.0/img/Astabil_multivibrator/20221104_112042.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/Astabil_multivibrator/20221104_112047.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/Astabil_multivibrator/20221104_112052.jpg" alt="asd" /></p>
+
+<h3 id="nyák-on-összerakva-forrasztás-nélkül">NYÁK-on összerakva forrasztás nélkül</h3>
+
+<p><img src="/portfolio2.0/img/Astabil_multivibrator/20221104_113939.jpg" alt="asd" /></p>
+
+<h3 id="nyák-ra-forrasztva">NYÁK-ra forrasztva</h3>
+
+<p><img src="/portfolio2.0/img/Astabil_multivibrator/20221104_131113.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/Astabil_multivibrator/20221104_131117.jpg" alt="asd" /></p>
 
 </details>
 
@@ -115,7 +206,40 @@
 <details>
 <summary>IC Vezérlés</summary>
 
+<h2 id="4092d-cmos-ic-igazságtáblával">4092D CMOS IC igazságtáblával</h2>
 
+<p><img src="/portfolio2.0/img/IC_vezerles/20230224_133518.jpg" alt="asd" /></p>
+
+<h3 id="említett-ic-igazságtáblájának-tesztelése-ni-mydaq-segítségével">Említett IC igazságtáblájának tesztelése NI myDAQ segítségével</h3>
+
+<p><img src="/portfolio2.0/img/IC_vezerles/20230224_133937.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/IC_vezerles/20230224_133943.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/IC_vezerles/20230224_133950.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/IC_vezerles/20230224_133953.jpg" alt="asd" /></p>
+
+<h4 id="az-ni-mydaq-ról">Az NI myDAQ-ról</h4>
+
+<p>Az NI myDAQ egy hordozható labor, ami laptophoz csatlakoztatva bárhol bármikor képes mérésre, adatgyűjtésre. 
+A labortápegységeken át, funkciógenerátorral, oszcilloszkóppal, multiméterrel, logikai analozátorral van felszerelve.</p>
+
+<p><img src="/img/IC_vezerles/ni-mydaq-923484859%20(1).jpg" alt="asd" /></p>
+
+<p><a href="https://www.ni.com/hu-hu/shop/engineering-education/portable-student-devices/mydaq/what-is-mydaq.html">Bővebben</a></p>
+
+<h2 id="4093d-ic-összekötve-egy-7406-ttl-ic-vel-és-led-ekkel">4093D IC összekötve egy 7406 TTL IC-vel és LED-ekkel</h2>
+
+<h3 id="kapcsolási-rajz">Kapcsolási rajz</h3>
+
+<p><img src="/portfolio2.0/img/IC_vezerles/20230228_204446.jpg" alt="asd" /></p>
+
+<h3 id="futtatás-közben">Futtatás közben</h3>
+
+<p><img src="/portfolio2.0/img/IC_vezerles/20230224_141035.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/IC_vezerles/20230224_141039.jpg" alt="asd" /></p>
 
 </details>
 
@@ -123,7 +247,21 @@
 <details>
 <summary>Igazságtábla Gyakorlása</summary>
 
+<h2 id="elmélet">Elmélet</h2>
 
+<p><img src="/portfolio2.0/img/Igazsagtabla/20221006_115000.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/Igazsagtabla/20221006_121335.jpg" alt="asd" /></p>
+
+<h2 id="gyakorlat">Gyakorlat</h2>
+
+<p><img src="/portfolio2.0/img/Igazsagtabla/20221006_111312.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/Igazsagtabla/20221006_111322.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/Igazsagtabla/20221006_111326.jpg" alt="asd" /></p>
+
+<p><img src="/portfolio2.0/img/Igazsagtabla/20221006_114955.jpg" alt="asd" /></p>
 
 
 </details>
