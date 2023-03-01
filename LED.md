@@ -14,6 +14,8 @@
 |     	|     	|     	|     	|   	|     	|
 
 
+---
+
 
 
 |Név        |Jelölés|Érték/Típus|Darab|
