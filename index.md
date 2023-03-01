@@ -9,11 +9,15 @@
 
 
 ## Kapcsolási rajz:
+
+
 ![asd](/img/LED/20230216_105507.jpg)
 
 
 
 ## Alkatrészek:
+
+
 |Név|Jelölés|Érték/Típus|Darab|
 |:---|:---:|:---:|:---:|
 |Feszültség|V1|3V-6V|-|
@@ -25,14 +29,19 @@
 |Tranzisztor|T1|BC639|1|
 |Rézhuzal|-|~4,6cm|1|
 
+
 ## Képek:
+
+
 ### Forrasztás előtt
+
 
 ![asd](/img/LED/20230210_091954.jpg)
 
 
 
 ### Összeforrasztva
+
 
 ![asd](/img/LED/20230210_094549.jpg)
 
@@ -46,18 +55,25 @@
 
 ### Rézhuzal felforrasztása után
 
+
 ![asd](/img/LED/20230210_104012.jpg)
 
 
 ![asd](/img/LED/20230210_104018.jpg)
+
+
 </details>
+
 
 <details>
 <summary>Roulette</summary>
 
+
 # ***WIP***
 
+
 ## A kit az alkatrészekkel
+
 
 ![asd](/img/Roulette/20221111_090818.jpg)
 
@@ -69,6 +85,8 @@
 
 
 ### Útmutató, Alkatrészleírás, Kapcsolásirajz
+
+
 ![asd](/img/Roulette/20221111_091359.jpg)
 
 
@@ -76,6 +94,8 @@
 
 
 ### Összeforrasztva
+
+
 ![asd](/img/Roulette/20221111_125523.jpg)
 
 
@@ -84,23 +104,32 @@
 
 ![asd](/img/Roulette/20221111_125538.jpg)
 
+
 </details>
+
 
 <details>
 <summary>Mini Teslatekercs</summary>
 
+
 # ***WIP***
 
+
 ### Nyomtatott Áramkör
+
+
 ![asd](/img/Mini_teslatekercs/20230112_102348.jpg)
 
 
 ### Alkatrészek
 
+
 ![asd](/img/Mini_teslatekercs/20230112_101918.jpg)
 
 
 ### Forrasztás előtt
+
+
 ![asd](/img/Mini_teslatekercs/20230112_101828.jpg)
 
 
@@ -109,14 +138,22 @@
 
 </details>
 
+
 <details>
 <summary>Astabil Multivibrátor</summary>
 
 ## Kapcsolásirajz
+
+
 ![asd](/img/Astabil_multivibrator/20230228_192153.jpg)
 
+
 ### Alkatrészek
+
+
 ## ***WIP***
+
+
 |Név|Jelölés|Érték/Típus|Darab|
 |:---|:---:|:---:|:---:|
 |Ellenállás|R1,R2|29,75kOhm|2|
@@ -127,6 +164,8 @@
 
 
 ### Breadboard-on összerakva
+
+
 ![asd](/img/Astabil_multivibrator/20221104_112042.jpg)
 
 
@@ -139,10 +178,14 @@
 
 
 ### NYÁK-on összerakva forrasztás nélkül
+
+
 ![asd](/img/Astabil_multivibrator/20221104_113939.jpg)
 
 
 ### NYÁK-ra forrasztva
+
+
 ![asd](/img/Astabil_multivibrator/20221104_131113.jpg)
 
 
@@ -157,11 +200,16 @@
 <details>
 <summary>IC Vezérlés</summary>
 
+
 ## 4092D CMOS IC igazságtáblával
+
+
 ![asd](/img/IC_vezerles/20230224_133518.jpg)
 
 
 ### Említett IC igazságtáblájának tesztelése NI myDAQ segítségével
+
+
 ![asd](/img/IC_vezerles/20230224_133937.jpg)
 
 
@@ -174,17 +222,30 @@
 ![asd](/img/IC_vezerles/20230224_133953.jpg)
 
 #### Az NI myDAQ-ról
+
+
 Az NI myDAQ egy hordozható labor, ami laptophoz csatlakoztatva bárhol bármikor képes mérésre, adatgyűjtésre. 
 A labortápegységeken át, funkciógenerátorral, oszcilloszkóppal, multiméterrel, logikai analozátorral van felszerelve.
+
+
 ![asd](/img/IC_vezerles/ni-mydaq-923484859%20(1).jpg)
+
+
 [Bővebben](https://www.ni.com/hu-hu/shop/engineering-education/portable-student-devices/mydaq/what-is-mydaq.html)
 
+
 ## 4093D IC összekötve egy 7406 TTL IC-vel és LED-ekkel
+
+
 ### Kapcsolási rajz
+
+
 ![asd](/img/IC_vezerles/20230228_204446.jpg)
 
 
 ### Futtatás közben
+
+
 ![asd](/img/IC_vezerles/20230224_141035.jpg)
 
 
@@ -196,7 +257,10 @@ A labortápegységeken át, funkciógenerátorral, oszcilloszkóppal, multiméte
 <details>
 <summary>Igazságtábla Gyakorlása</summary>
 
+
 ## Elmélet
+
+
 ![asd](/img/Igazsagtabla/20221006_115000.jpg)
 
 
@@ -204,6 +268,8 @@ A labortápegységeken át, funkciógenerátorral, oszcilloszkóppal, multiméte
 
 
 ## Gyakorlat
+
+
 ![asd](/img/Igazsagtabla/20221006_111312.jpg)
 
 
