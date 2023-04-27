@@ -12,7 +12,7 @@
 ### Ellenállások (Értékekkel,Színkódokkal)
 ![Ellenállások](img/Visszhang/Ellenallasok_1.png) ![Ellenállások](img/Visszhang/Ellenallasok_2.png)
 ### Kerámia Kondenzátorok
-![Kerámia Kondik](img/Visszhang/Keramia_Kondi.png)
+![Kerámia Kondik](img/Visszhang/Keramia_kondi.png)
 ### Diódák
 ![Zenerdióda](img/Visszhang/Zener_dioda) ![Dióda](img/Visszhang/Dioda.png)
 
