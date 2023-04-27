@@ -14,7 +14,7 @@
 ### Kerámia Kondenzátorok
 ![Kerámia Kondik](img/Visszhang/Keramia_Kondi.png)
 ### Diódák
-![Zenerdióda](img/Visszhang/Zener_Dioda) ![Dióda](img/Visszhang/Dioda.png)
+![Zenerdióda](img/Visszhang/Zener_dioda) ![Dióda](img/Visszhang/Dioda.png)
 
 ## Összerakás
 
