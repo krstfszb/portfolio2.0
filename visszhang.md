@@ -7,7 +7,7 @@
 ## Alkatrészek
 ### Minden Alkatrész Kiborítva
 ![Alkatrészek Kiborítva](img/Visszhang/Alkatreszek.jpg)
-### Ellenállások (Értékkel,Színkóddal)
+### Ellenállások (Értékekkel,Színkóddal)
 ![Ellenállások](img/Visszhang/Ellenallas_1.png) ![Ellenállások](img/Visszhang/Ellenallas_2.png)
 
 ## Összerakás
