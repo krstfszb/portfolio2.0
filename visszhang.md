@@ -5,7 +5,9 @@
 ![Kapcsolási Rajz](img/Visszhang/Kapcsolasi_rajz.png)
 
 ## Alkatrészek
+### Kiborítva
 ![Alkatrészek Kiborítva](img/Visszhang/Alkatreszek.jpg)
+### Ellenállások
 ![Ellenállások](img/Visszhang/Ellenallas_1.png) ![Ellenállások](img/Visszhang/Ellenallas_2.png)
 
 ## Összerakás
