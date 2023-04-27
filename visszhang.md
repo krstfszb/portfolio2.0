@@ -18,6 +18,18 @@
 
 >Dióda![Dióda](img/Visszhang/Dioda.png)
 
+### Elektrolit Kondenzátorok
+![Elektrolit Kondi](img/Visszhang/Elektrolit_kondi.png)
+### IC
+![IC](img/Visszhang/IC.png)
+
+>IC1:
+
+>IC2:
+
+>IC3:
+
+
 ## Összerakás
 
 ## Végszó
