@@ -296,6 +296,11 @@ A labortápegységeken át, funkciógenerátorral, oszcilloszkóppal, multiméte
 
 </details>
 
+
+<details>
+<summary>Digitális Visszhang Kamra</summary>
+</details>
+
 </details>
 
 <details>
